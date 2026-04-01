@@ -1,3 +1,21 @@
+# Keil uVision 忽略规则
+*.uvguix.*
+*.uvoptx
+*.bak
+*.crf
+*.d
+*.dep
+*.hex
+*.axf
+*.lnp
+*.lst
+*.map
+*.o
+*.bin
+*.build_log.htm
+Objects/
+Listings/
+
 # Prerequisites
 *.d
 
